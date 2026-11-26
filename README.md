@@ -66,4 +66,4 @@ ChatGPT وPlugin Creator والبحث الإلكتروني؛ لا خادم خا�
 - مستقبلًا: مقارنة الجديد والمستعمل والتشاليح، ثم دراسة تطبيق مستقل باستخدام API. هذه ميزات مؤجلة وليست جزءًا من النسخة المقيسة.
 
 ## أكاديمية سدايا
-[SDAIA Academy – GitHub](https://github.com/SDAIAAcademy)
+[SDAIA Academy – GitHub]([https://github.com/SDAIAAcademy](https://github.com/SDAIAAcademy/productivity#sources))
